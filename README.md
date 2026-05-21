@@ -94,7 +94,8 @@ O projeto gera uma planilha Excel profissional com 5 abas:
 
 **Natalia Barros** — Cientista de Dados
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nataliachagas1994/)
+- 📧 natalia.goldenglowitsolutions@gmail.com
 
 ## 📄 Licença
 
