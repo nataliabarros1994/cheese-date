@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache de ferramentas
+.pytest_cache/
+.ruff_cache/
+
+# Dados e saidas (gerados, nao versionar)
+data/raw/*
+data/processed/*
+data/output/*
+!data/raw/.gitkeep
+
+# Build
+*.egg-info/
+
+# Sistema operacional
+.DS_Store
