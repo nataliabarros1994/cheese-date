@@ -20,3 +20,6 @@ data/output/*
 
 # Sistema operacional
 .DS_Store
+# Excecoes - queremos mostrar estes no portfolio
+!data/raw/producao_queijos.csv
+!data/output/relatorio_producao_queijos.xlsx
